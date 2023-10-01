@@ -1,0 +1,6 @@
+filename,filesize,header
+seq2seq_rnn-model-en-fr_1.h5,66000000,False
+seq2seq_rnn-model-en-fr_2.h5,66000000,False
+seq2seq_rnn-model-en-fr_3.h5,66000000,False
+seq2seq_rnn-model-en-fr_4.h5,66000000,False
+seq2seq_rnn-model-en-fr_5.h5,15028184,False
